@@ -1,0 +1,29 @@
+/* .head {
+  display: flex;
+  background-color: red;
+} */
+h1 {
+  display: flex;
+  color: blue;
+}
+body {
+  /* float: inline-start */
+  display: center;
+  align-items: center;
+}
+
+.quiz {
+  background-color: darkgrey;
+  display: flex;
+}
+div {
+  background-color: darkseagreen;
+}
+
+p {
+  background-color: lightgrey;
+}
+
+button {
+  align-items: center;
+}
