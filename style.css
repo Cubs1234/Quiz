@@ -1,29 +1,52 @@
+.container {
+  background-color: lightblue;
+  width: 960px;
+  color: darkred;
+  text-align: center;
+}
+
+.answers {
+  justify-content: center;
+}
+.body {
+  /* background-color: aqua; */
+  justify-content: center;
+}
+
+.timer {
+}
+
+.question {
+}
+
+.quizContainer {
+  align-content: center;
+}
+
 /* .head {
   display: flex;
   background-color: red;
 } */
 h1 {
-  display: flex;
-  color: blue;
+  text-align: center;
 }
-body {
-  /* float: inline-start */
-  display: center;
-  align-items: center;
-}
+/* display: flex; */
+/* color: blue; */
+/* } */
+/* body { */
+/* float: inline-start */
+/* display: center; */
+/* align-items: center; */
+/* } */
 
-.quiz {
-  background-color: darkgrey;
-  display: flex;
-}
-div {
-  background-color: darkseagreen;
-}
-
-p {
-  background-color: lightgrey;
-}
+/* .quiz  */
+/* background-color: darkgrey; */
+/* display: flex; */
+/* } */
+/* div { */
+/* background-color: darkseagreen; */
+/* } */
 
 button {
-  align-items: center;
+  text-align: center;
 }
