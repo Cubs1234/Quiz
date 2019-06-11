@@ -5,22 +5,21 @@
   text-align: center;
 }
 
-.answers {
-  justify-content: center;
-}
-.body {
+/* .answers { */
+  /* justify-content: center; */
+/* } */
   /* background-color: aqua; */
-  justify-content: center;
+  /* justify-content: center; */
+/* } */
+
+/* .timer { */
 }
 
-.timer {
+/* .question { */
 }
 
-.question {
-}
-
-.quizContainer {
-  align-content: center;
+/* .quizContainer { */
+  /* align-content: center; */
 }
 
 /* .head {
